@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucario-github.github.io/sitemap.xml
