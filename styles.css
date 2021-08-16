@@ -11,7 +11,8 @@ body {
 }
 
 .jumbotron-fluid {
-    background-color: #000000;
+    background-color: #00FFFF;
+    width: 250px;
 }
 
 .logo {
@@ -28,4 +29,8 @@ body {
     padding-left: 100px;
     width: 25%;
     height: 25%;
+}
+
+ul li {
+    list-style-type: none;
 }
