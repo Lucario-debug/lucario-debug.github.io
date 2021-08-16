@@ -2,6 +2,18 @@
     background-color: #383838;
 }
 
+p, h1, h2, h3 {
+    color: #ffffff
+}
+
+body {
+    background-color: #383838;
+}
+
+.jumbotron-fluid {
+    background-color: #000000;
+}
+
 .logo {
     width: 50px;
     height: 50px;
