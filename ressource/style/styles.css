@@ -6,6 +6,18 @@ p, h1, h2, h3 {
     color: #ffffff
 }
 
+h1 {
+    font-family: 'Akronim';
+}
+
+p {
+    font-family: 'Satisfy';
+}
+
+a {
+    font-family: 'Big Shoulders Stencil Text'
+}
+
 body {
     background-color: #383838;
 }
@@ -35,38 +47,19 @@ body {
 .intro {
     padding-left: 50px;
     padding-right: 50px;
+    text-align: center;
 }
 
 .cover {
     padding-left: 100px;
     width: 25%;
     height: 25%;
-    display: inline;
+    float: left;
+
 }
 
 .resum {
-    display: inline;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-ul li .btn {
-    list-style-type: none;
-}
-
-a {
-    background-color: #0179F2;
-    border-color: white;
-    border-style: solid;
-    border-radius: 10px;
-    border-width: 2,5px;
-    color: white;
-    padding: 10px 10px;
-    text-decoration: none;
-}
-
-a:hover {
-    background-color: #014CAF;
-    color: white;
-    transition: all 0.5s;
+    padding-top: 125px;
+    padding-right: 50px;
+    text-align: center;
 }
