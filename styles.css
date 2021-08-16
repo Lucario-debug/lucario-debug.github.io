@@ -6,3 +6,14 @@
     width: 50px;
     height: 50px;
 }
+
+.intro {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.cover {
+    padding-left: 100px;
+    width: 25%;
+    height: 25%;
+}
