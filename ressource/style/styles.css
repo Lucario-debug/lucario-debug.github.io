@@ -45,21 +45,27 @@ body {
 }
 
 .intro {
+    padding: 3%;
+    padding-top: 3%;
     padding-left: 50px;
     padding-right: 50px;
     text-align: center;
 }
 
 .cover {
-    padding-left: 100px;
-    width: 25%;
-    height: 25%;
-    float: left;
-
+    padding: 1%;
+    width: 20%;
+    height: 20%;
 }
 
 .resum {
     padding-top: 125px;
     padding-right: 50px;
     text-align: center;
+}
+
+.jumbotron {
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
 }
