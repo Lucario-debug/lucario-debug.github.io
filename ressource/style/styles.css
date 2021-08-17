@@ -28,6 +28,8 @@ body {
     border-color: white;
     border-radius: 10px;
     border-width: 3px;
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
 
 .text-center {
